@@ -8,3 +8,7 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Data
+Pairs trading/CXW_data
+Pairs trading/GEO_data
